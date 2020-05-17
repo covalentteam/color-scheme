@@ -9,4 +9,4 @@ simple:
  - Embellishing not recommend code.
 
 ## clojure
-![Clojure screenshot example](https://github.com/covalentteam/color-scheme/blob/master/screenshot/Screen%20Shot%202020-05-17%20at%2010.35.56.pn
+![Clojure screenshot example](https://github.com/covalentteam/color-scheme/blob/master/screenshot/Screen%20Shot%202020-05-17%20at%2010.35.56.png)
